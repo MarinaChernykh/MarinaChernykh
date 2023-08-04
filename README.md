@@ -3,7 +3,7 @@
 
 - ✨ Curious and enthusiastic Python-developer
 - 🧠 Passionate about learning something new
-- 🚀 I love it when can finally solve a challenging task
+- 🚀 I love it when can finally complete a challenging task
 - ✉️ You can contact me at [chernykh.marina.u@gmail.com](mailto:chernykh.marina.u@gmail.com) or at [Telegram](https://t.me/mari_cherny)
 - ⚡ Fun fact: I'm an extremely lucky person - got wet in the rain in the driest desert in the world! 😄
 
